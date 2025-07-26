@@ -1,0 +1,6 @@
+l=eval(input("enter the list elements :"))
+print(l)
+print(len(l))
+l.append(30+5j)
+print(l)
+print(len(l))

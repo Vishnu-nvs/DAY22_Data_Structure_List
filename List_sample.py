@@ -1,0 +1,9 @@
+l=[1,2,3,4,5,6,7,2,3,5,7,1]
+print(len(l))
+l[4]=29
+l.append(20)
+print(l)
+print(len(l))
+l.pop()
+print(l)
+print(len(l))
